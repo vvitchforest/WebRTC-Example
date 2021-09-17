@@ -123,7 +123,6 @@ const Room = (props) => {
       <div>
         <video autoPlay ref={userVideo}/>
         <video autoPlay ref={partnerVideo}/>
-        <p>OMG testi</p>
       </div>
   );
 };
